@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QoLUtils", "QoLUtils\QoLUtils.csproj", "{7E622BED-5DE1-437C-A4BC-7E496FE18CA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingApp", "TestingApp\TestingApp.csproj", "{E1AEBB82-FB62-4158-AF21-D2569B8DF85A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E622BED-5DE1-437C-A4BC-7E496FE18CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E622BED-5DE1-437C-A4BC-7E496FE18CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E622BED-5DE1-437C-A4BC-7E496FE18CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E622BED-5DE1-437C-A4BC-7E496FE18CA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1AEBB82-FB62-4158-AF21-D2569B8DF85A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1AEBB82-FB62-4158-AF21-D2569B8DF85A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1AEBB82-FB62-4158-AF21-D2569B8DF85A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1AEBB82-FB62-4158-AF21-D2569B8DF85A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49DFFF8E-6199-4A41-939C-FF7CC77A3521}
+	EndGlobalSection
+EndGlobal
